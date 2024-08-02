@@ -1,5 +1,5 @@
 # gaussian-splatting-threejs-demo
-Gaussian Splatting demo made with Three.js
+Gaussian Splatting demo made with Three.js. This is a summer project for Summer Internship 2024. Since the project is completed, we will not accept contributions. Feel free to fork under the MIT license.
 
 ### Basic setup
 
@@ -16,3 +16,4 @@ The first demo locks your pointer to have first person controls. Press escape to
 The second demo is a bowling mini game with gaussian objects as bowling pins, showcasing interaction between splats and physics. Press W to shoot your ball. You can only shoot once. Drag with your mouse to aim your shot and move the camera.
 
 Press "Reset Scene" to reset bowling ball's and pins' positions.
+
